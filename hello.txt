@@ -16,3 +16,4 @@ hello git!!! master test
 hello git!!! hot-fix test
 1111111111111111111111111
 SSH 地址拉取测试
+SSH PUSH TEST
